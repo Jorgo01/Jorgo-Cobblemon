@@ -4,33 +4,25 @@
 - [Cobblemon Official Modpack](https://modrinth.com/modpack/cobblemon-fabric)
 
 ### SIDEMOD
-- [Cobblemon: Mega Showdown](https://modrinth.com/modpack/cobblemon-fabric)
-- [Cobblemon: Legendary Monuments](https://modrinth.com/mod/legendary-monuments/gallery)
-  - [CobbleFurnies](https://modrinth.com/mod/cobblefurnies)
-- [Cobblemon Raid Dens](https://modrinth.com/mod/cobblemonraiddens)
-- [Radical Cobblemon Trainers](https://modrinth.com/mod/rctmod)
-- [CobbleDollars](https://modrinth.com/mod/cobbledollars)
-
-- [Waystones](https://modrinth.com/mod/waystones)
-- [Xaero's Maps x Waystones](https://modrinth.com/mod/xaeros-maps-x-waystones)
-  
-- [Cobblemon Pokenav](https://modrinth.com/mod/cobblemon-pokenav)
-- [Cobblemon Capture XP](https://modrinth.com/mod/cobblemon-capture-xp)
-- [Cobblemon Fight or Flight Reborn](https://modrinth.com/mod/cobblemon-fight-or-flight-reborn)
-  
-- [Cobblemon Catch Rate Display](https://modrinth.com/mod/catch-rate-display)
-- [Catch Indicator](https://modrinth.com/mod/catch-indicator)
-- [MoreCobblemonTweaks](https://modrinth.com/mod/more-cobblemon-tweaks)
-- [Cobblemon: Extended Battle UI](https://modrinth.com/mod/cobblemon-extended-battle-ui)
-
-- [CobbleCuisine](https://modrinth.com/mod/cobblecuisine)
-- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
+- [Catch Indicator](https://modrinth.com/mod/tpTcu2PM) [1\.7\.0]
+- [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1\.2]
+- [Cobblemon Additions](https://modrinth.com/mod/W2pr9jyL) [4\.3\.0]
+- [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1\.13\.45]
+- [Cobblemon Capture XP](https://modrinth.com/mod/LBl4Qguc) [1\.7\.3\-fabric\-1\.3\.0]
+- [Cobblemon Catch Rate Display](https://modrinth.com/mod/vADO40xp) [2\.8\.22]
+- [Cobblemon Fight or Flight Fabric](https://modrinth.com/mod/cTdIg5HZ) [0\.10\.9]
+- [Cobblenav](https://modrinth.com/mod/bI8Nt3uA) [2\.3\.3]
+- [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5]
+- [Legendary Monuments](https://modrinth.com/mod/m6RyHSbV) [8\.0\.3]
+- [MoreCobblemonTweaks](https://modrinth.com/mod/5KWlJ2HC) [1\.3\.3]
+- [Radical Cobblemon Trainers](https://modrinth.com/mod/lRwTUnD7) [0\.18\.1\-beta]
+- [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) [10\.1\.36]
+- [Xaero's Maps x Waystones](https://modrinth.com/mod/iv2jCzkP) [2\.11\.1\+1\.21\.1\-fabric]
 
 - [CobbleThemes](https://modrinth.com/mod/cobblethemes)
 - [Cobblemon Intros](https://modrinth.com/mod/cobblemon-intros)
+- [CobbleCuisine](https://modrinth.com/mod/cobblecuisine)
 
-- [Controlling](https://modrinth.com/mod/controlling)
-- [Simple Voice Chat](https://modrinth.com/plugin/simple-voice-chat/gallery)
 
 ### RESOURCEPACK
 - [E19 - Cobblemon Minimap Icons](https://modrinth.com/resourcepack/e19_cobblemon_minimap_icons)
