@@ -45,3 +45,12 @@ Cambiare versione delle seguenti mod:
 
 - CobbleDollars
     - Overlay Position: Bottom Left
+ 
+- Fight or Flight
+    - fightorflight_visual_effect.json5: "move_indicator_x_relative": 0.8899999260902405
+ 
+- Xaero's minimap: entity radar settings
+    - add to "any" exclude list armadillo and painting
+    - Display names: Player List
+    - Display icons: Always
+    - Entity icon scale: 1.20
