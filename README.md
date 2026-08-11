@@ -54,3 +54,11 @@ Cambiare versione delle seguenti mod:
     - Display names: Player List
     - Display icons: Always
     - Entity icon scale: 1.20
+
+- Radical Cobblemon trainers: rtcmod-server.toml
+    - initialSeries = "freeroam"
+    - freeroamRequiresCompletedSeries = false
+ 
+- Resource Packs
+    - Enable  "E19 - Cobblemon Minimap Icons"
+    - Enable "Cobblemon Battle Tracks"
