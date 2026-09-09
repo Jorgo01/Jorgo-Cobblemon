@@ -6,29 +6,30 @@
 ### SIDEMOD
 - [Catch Indicator](https://modrinth.com/mod/tpTcu2PM) [2\.1]
 - [CobbleCuisine](https://modrinth.com/mod/dlx62Wp3) [2\.0\.1]
-- [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1\.2]
-- [CobbleThemes](https://modrinth.com/mod/PAO12Ixe) [1\.7\-v0\.9\.3\-beta]
+- [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1\.2]  **Meglio Macaw's eccetera**
+- [CobbleThemes](https://modrinth.com/mod/PAO12Ixe) [1\.7\-v0\.9\.3\-beta]  **Ancora da trovare una soluzione**
 - [Cobblemon Additions](https://modrinth.com/mod/W2pr9jyL) [4\.3\.0]
-- [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1\.13\.45]
+- [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1\.13\.45]  **UI Pesantissima ma configurabile**
 - [Cobblemon Capture XP](https://modrinth.com/mod/LBl4Qguc) [1\.7\.3\-fabric\-1\.3\.0]
-- [Cobblemon Catch Rate Display](https://modrinth.com/mod/vADO40xp) [2\.8\.23]
+- [Cobblemon Catch Rate Display](https://modrinth.com/mod/vADO40xp) [2\.8\.23]  **Non indispensabile**
 - [Cobblemon Fight or Flight Fabric](https://modrinth.com/mod/cTdIg5HZ) [0\.10\.9]
-- [Cobblemon Intros](https://modrinth.com/mod/gG3mz6AL) [1\.0\.0]
+- [Cobblemon Intros](https://modrinth.com/mod/gG3mz6AL) [1\.0\.0]  **Ancora da trovare una soluzione**
 - [Cobblenav](https://modrinth.com/mod/bI8Nt3uA) [2\.3\.3]
 - [Controlling](https://modrinth.com/mod/xv94TkTM) [19\.0\.5]
-- [Legendary Monuments](https://modrinth.com/mod/m6RyHSbV) [8\.1\-Love\-for\-All]
-- [MoreCobblemonTweaks](https://modrinth.com/mod/5KWlJ2HC) [1\.3\.3]
+- [Legendary Monuments](https://modrinth.com/mod/m6RyHSbV) [8\.1\-Love\-for\-All]  **Eccessivo**
+- [MoreCobblemonTweaks](https://modrinth.com/mod/5KWlJ2HC) [1\.3\.3]  **Modificava i box ma non ricordo come**
 - [Radical Cobblemon Trainers](https://modrinth.com/mod/lRwTUnD7) [0\.18\.1\-beta]
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) [10\.1\.38]
-- [Xaero's Maps x Waystones](https://modrinth.com/mod/iv2jCzkP) [2\.11\.1\+1\.21\.1\-fabric]
+- [Xaero's Maps x Waystones](https://modrinth.com/mod/iv2jCzkP) [2\.11\.1\+1\.21\.1\-fabric] **Non serve più**
+- **Aggiungere Terralith**
 
 ### RESOURCEPACK
 - [E19 - Cobblemon Minimap Icons](https://modrinth.com/resourcepack/e19_cobblemon_minimap_icons)
-- [Cobblemon Battle Tracks](https://modrinth.com/resourcepack/cobblemon-battle-tracks)
+- [Cobblemon Battle Tracks](https://modrinth.com/resourcepack/cobblemon-battle-tracks) **Ancora da trovare una soluzione**
 
 ### COMPATIBILITA'
 Cambiare versione delle seguenti mod:
-- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.64]
+- [Balm](https://modrinth.com/mod/MBAkmtvl) [21\.0\.64]  **Non serve più**
 
 ### SETTINGS
 - Key binds
