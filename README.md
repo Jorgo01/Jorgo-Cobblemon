@@ -26,7 +26,7 @@
 ### RESOURCEPACK
 - [E19 - Cobblemon Minimap Icons](https://modrinth.com/resourcepack/e19_cobblemon_minimap_icons)
 - [Cobblemon Battle Tracks](https://modrinth.com/resourcepack/cobblemon-battle-tracks) **Ancora da trovare una soluzione**
-- **Al momento sembra che CobbleThemes sia la soluzione migliore anche se non va in loop**
+- **Al momento sembra che CobbleSound (volendo Redux) sia la soluzione migliore anche se non so se va in loop**
 
 ### COMPATIBILITA'
 Cambiare versione delle seguenti mod:
