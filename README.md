@@ -4,8 +4,11 @@
 - [Cobblemon Official Modpack](https://modrinth.com/modpack/cobblemon-fabric)
 
 ### SIDEMOD
+- **Cobblemon Mega showdown**
 - [Catch Indicator](https://modrinth.com/mod/tpTcu2PM) [2\.1]
 - [CobbleCuisine](https://modrinth.com/mod/dlx62Wp3) [2\.0\.1]
+- **CobbleCusine delight**
+- **Farmer's Delight**
 - [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1\.2]  **Meglio Macaw's eccetera**
 - [CobbleThemes](https://modrinth.com/mod/PAO12Ixe) [1\.7\-v0\.9\.3\-beta]  **Ancora da trovare una soluzione**
 - [Cobblemon Additions](https://modrinth.com/mod/W2pr9jyL) [4\.3\.0]
