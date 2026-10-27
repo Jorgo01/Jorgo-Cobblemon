@@ -24,6 +24,7 @@
 - [Radical Cobblemon Trainers](https://modrinth.com/mod/lRwTUnD7) [0\.18\.1\-beta]
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) [10\.1\.38]
 - [Xaero's Maps x Waystones](https://modrinth.com/mod/iv2jCzkP) [2\.11\.1\+1\.21\.1\-fabric] **Non serve più**
+- **Waystones**
 - **Aggiungere Terralith**
 
 ### RESOURCEPACK
