@@ -11,7 +11,7 @@
 - **Farmer's Delight**
 - [CobbleFurnies](https://modrinth.com/mod/AXY1OO9m) [1\.2]  **Meglio Macaw's eccetera**
 - [CobbleThemes](https://modrinth.com/mod/PAO12Ixe) [1\.7\-v0\.9\.3\-beta]  **Ancora da trovare una soluzione**
-- [Cobblemon Additions](https://modrinth.com/mod/W2pr9jyL) [4\.3\.0]
+- [Cobblemon Additions](https://modrinth.com/mod/W2pr9jyL) [4\.3\.0] 
 - [Cobblemon Battle Extras](https://modrinth.com/mod/2iY8VFqL) [1\.13\.45]  **UI Pesantissima ma configurabile**
 - [Cobblemon Capture XP](https://modrinth.com/mod/LBl4Qguc) [1\.7\.3\-fabric\-1\.3\.0]
 - [Cobblemon Catch Rate Display](https://modrinth.com/mod/vADO40xp) [2\.8\.23]  **Non indispensabile**
@@ -24,7 +24,7 @@
 - [Radical Cobblemon Trainers](https://modrinth.com/mod/lRwTUnD7) [0\.18\.1\-beta]
 - [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) [10\.1\.38]
 - [Xaero's Maps x Waystones](https://modrinth.com/mod/iv2jCzkP) [2\.11\.1\+1\.21\.1\-fabric] **Non serve più**
-- **Waystones**
+- **Waystones** **Settare wild waystons a 0 se c'è cobblemon addition**
 - **Aggiungere Terralith**
 
 ### RESOURCEPACK
